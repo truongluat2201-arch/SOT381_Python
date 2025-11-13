@@ -1,5 +1,0 @@
-print("hello","world","!")
-print("hello","world", sep="-", end="!\n")
-print("hello", end=" ")
-print("world")
-print("Python","programming", sep="*", end="!\n")
