@@ -1,0 +1,6 @@
+age=int(input("Nhập tuổi của bạn: "))
+print(f"Sau 5 năm nữa bạn sẽ {age+5} tuổi")
+height=float(input("Nhập chiều cao của bạn: "))
+print(f"Chiều cao của bạn là {height:.2f} m ")
+is_student= bool(int(input("Là sinh viên ? (0: Không, 1: Có): ")))
+print(f"Là sinh viên: {is_student}")
