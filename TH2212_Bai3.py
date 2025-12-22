@@ -6,5 +6,16 @@ def so_LN(a,b,c):
         maxx = c
     return maxx
 
-x = so_LN(1,2,3)
-print(x)
+def so_NN(a,b,c):
+    minn = a
+    if b < minn:
+        minn = b
+    if c < minn:
+        minn = c
+    return minn
+
+
+x = so_LN(4,5,6)
+y = so_NN(7,8,9)
+print(f"Số lớn nhất là {x}")
+print(f"Số nhỏ nhất là {y}")
