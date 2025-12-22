@@ -9,8 +9,8 @@ def tinh_s(n):
         if j % 2 == 0:
             mau_so = mau_so + j
     s = tu_so / mau_so
-    return s
+    return round(s,2)
 
 
-x=tinh_s(3)
+x=tinh_s(20)
 print(f"Vậy giá trị của s là {x}")
