@@ -25,4 +25,4 @@ for t in range(n):
         ten_bai_dai_nhat = ten_bai
         so_tu_dai_nhat = so_tu
         vi_tri_cua_bai = i
-print(ten_bai_dai_nhat, so_tu_dai_nhat)
+print(f"Bài hát dài nhất là {ten_bai_dai_nhat} có số từ {so_tu_dai_nhat}")
