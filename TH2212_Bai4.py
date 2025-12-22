@@ -1,9 +1,11 @@
 def so_LN_NN(a,b,c):
+    # Tìm số lớn nhất
     maxx = a
     if b > maxx:
         maxx = b
     if c > maxx:
         maxx = c
+    # tìm số nhỏ nhất
     minn = a
     if b < minn:
         minn = b
