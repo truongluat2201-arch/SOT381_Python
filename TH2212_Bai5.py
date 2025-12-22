@@ -13,4 +13,4 @@ def tinh_s(n):
 
 
 x=tinh_s(3)
-print(x)
+print(f"Vậy giá trị của s là {x}")
