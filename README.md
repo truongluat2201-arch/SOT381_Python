@@ -26,3 +26,29 @@
 
 &nbsp;nếu dưới 3 đêm thì tính theo giá cố định
 
+* ### [Bài 3](https://github.com/truongluat2201-arch/SOT381_Python/blob/main/kt_ngay_hop_le.py): Kiểm tra 1 ngày có hợp lệ hay không
+
+&nbsp; -Đầu vào: ngày,tháng,năm
+
+&nbsp; -Đầu ra: in ra hợp lệ hay không hợp lệ
+
+&nbsp; -Xử lí: 
+
+&nbsp;	+Đầu tiên là kiểm tra 1<=thang<=12 và 1<=ngay<=31 hay không
+
+&nbsp;	+Nếu tháng thuộc 4,6,9,11 thì kiểm tra ngày có lớn hơn 30 hay không
+
+&nbsp;	+nếu tháng là 2 thì kiểm tra là năm nhuận hay năm không nhuận ( (nam%4==0 and nam%100!=0) or (nam%400==0) )
+
+&nbsp;	+còn lại thì kiểm tra ngày có  lớn hơn 31 hay không
+
+&nbsp;    
+
+&nbsp; 
+
+
+
+
+
+
+
