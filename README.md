@@ -50,7 +50,13 @@
 
 &nbsp; -Xử lí: dùng vòng lặp while để chạy các chức năng, dùng hàm if để xử lí các chức năng bên trong menu
 
- 
+* ### [Bài 5](https://github.com/truongluat2201-arch/SOT381_Python/blob/main/cac_vi_du/Vidu5.py): Máy tính đơn giản
+
+&nbsp; -đầu vào: 2 số a,b và phép toán
+
+  -đầu ra: kết quả của phép tính
+
+&nbsp; -xử lí: dùng hàm if để xử lí các phép tính +, -, \*, /
 
  
 
