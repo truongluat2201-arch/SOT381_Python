@@ -58,5 +58,11 @@
 
 &nbsp; -xử lí: dùng hàm if để xử lí các phép tính +, -, \*, /
 
- 
+* ### Bài 6: giải phương trình bậc 1
+
+&nbsp; -đầu vào: hai số a, b
+
+&nbsp; -đầu ra: nghiệm phương trình bậc 1
+
+&nbsp; -xử lí: nếu a =0 và b= 0 thì phương trình vô số nghiệm, nếu a = 0 và b!= 0 thì phương trình vô nghiệm, nếu a!=0 thì x=-b/a
 
