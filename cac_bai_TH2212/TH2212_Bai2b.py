@@ -2,7 +2,6 @@ a = int(input("Nhập số a: "))
 b = int(input("Nhập số b: "))
 c = int(input("Nhập số c: "))
 minn = a
-maxx = a
 if (b < minn):
     minn = b
 if (c < minn):
