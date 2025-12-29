@@ -44,25 +44,25 @@
 
 * ### [Bài 4](https://github.com/truongluat2201-arch/SOT381_Python/blob/main/menu_while.py): Menu chức năng đơn giản
 
-&nbsp; -đầu vào: lựa chọn chức năng
+  -đầu vào: lựa chọn chức năng
 
-&nbsp; -đầu ra: kết quả chức năng vừa chọn
+  -đầu ra: kết quả chức năng vừa chọn
 
-&nbsp; -Xử lí: dùng vòng lặp while để chạy các chức năng, dùng hàm if để xử lí các chức năng bên trong menu
+  -Xử lí: dùng vòng lặp while để chạy các chức năng, dùng hàm if để xử lí các chức năng bên trong menu
 
 * ### [Bài 5](https://github.com/truongluat2201-arch/SOT381_Python/blob/main/cac_vi_du/Vidu5.py): Máy tính đơn giản
 
-&nbsp; -đầu vào: 2 số a,b và phép toán
+  -đầu vào: 2 số a,b và phép toán
 
   -đầu ra: kết quả của phép tính
 
-&nbsp; -xử lí: dùng hàm if để xử lí các phép tính +, -, \*, /
+  -xử lí: dùng hàm if để xử lí các phép tính +, -, \*, /
 
-* ### Bài 6: giải phương trình bậc 1
+* ### [Bài 6](https://github.com/truongluat2201-arch/SOT381_Python/blob/main/Phuongtrinhbac1.py): giải phương trình bậc 1
 
-&nbsp; -đầu vào: hai số a, b
+  -đầu vào: hai số a, b
 
-&nbsp; -đầu ra: nghiệm phương trình bậc 1
+  -đầu ra: nghiệm phương trình bậc 1
 
-&nbsp; -xử lí: nếu a =0 và b= 0 thì phương trình vô số nghiệm, nếu a = 0 và b!= 0 thì phương trình vô nghiệm, nếu a!=0 thì x=-b/a
+  -xử lí: nếu a =0 và b= 0 thì phương trình vô số nghiệm, nếu a = 0 và b!= 0 thì phương trình vô nghiệm, nếu a!=0 thì x=-b/a
 
