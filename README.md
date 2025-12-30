@@ -66,3 +66,25 @@
 
   -xử lí: nếu a =0 và b= 0 thì phương trình vô số nghiệm, nếu a = 0 và b!= 0 thì phương trình vô nghiệm, nếu a!=0 thì x=-b/a
 
+* ### [Bài 7](https://github.com/truongluat2201-arch/SOT381_Python/blob/main/ptbac2.py): Giải phương trình bậc 2
+
+&nbsp; -đầu vào: các hệ số a,b,c
+
+&nbsp; -đầu ra: nghiệm phương trình bậc 2
+
+&nbsp; -xử lí: 
+
+&nbsp;	+ nếu a,b,c đều bang 0 thì in ra phương trình vô số nghiệm
+
+&nbsp;	+ nếu a,b = 0 và c khác 0 thì in ra phương trình vô nghiệm
+
+&nbsp;	+ nếu a = 0 thì có nghiệm x = -c/b
+
+&nbsp;	+ nếu a,b,c khác 0 thì chia làm 3 trường hợp
+
+&nbsp;		-nếu denta < 0 thì in ra phương trình vô nghiệm
+
+&nbsp;		-nếu denta = 0 thì in ra phương trình có nghiệm kép x = -b/2a
+
+&nbsp;		-nếu denta > 0 thì in ra phương trình có 2 nghiệm phân biệt x1= (-b + math.sqrt(denta))/2a, x2= (-b- math.sqrt(denta))/2a
+
